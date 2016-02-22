@@ -6,9 +6,9 @@
   "repository": "git@github.com:jinksi/ReduxSimpleStarter.git",
   "scripts": {
     "start": "webpack-dev-server --inline --progress",
-    "build": "webpack --progress"
+    "build": "webpack -p --progress"
   },
-  "author": "",
+  "author": "Eric Jinks",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
